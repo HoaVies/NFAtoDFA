@@ -1,4 +1,4 @@
-# Task 1: Converting NFA to DFA
+# Converting NFA to DFA
 
 ## Objective
 The goal of this task is to convert a **Non-deterministic Finite Automaton (NFA)** into a **Deterministic Finite Automaton (DFA)** using the **subset construction** method. This eliminates non-determinism and ensures that each DFA state has a single transition for every input symbol.
