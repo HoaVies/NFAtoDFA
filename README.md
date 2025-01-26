@@ -64,7 +64,7 @@ Output saved in `dfa_output.txt`.
 ### Example Execution (Image)
 Below is a visual representation of the conversion process from NFA to DFA:
 
-![NFA to DFA Conversion Example](https://github.com/HoaVies/NFAtoDFA/blob/master/Example1.png)
+![NFA to DFA Conversion Example](https://github.com/HoaVies/NFAtoDFA/blob/master/1stExample.png)
 
 ---
 
